@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.box1{
+/* background-color: red; */
+border: 1px solid  red;
+margin-bottom: 5px;
+}
+
+.box1:hover{
+    background-color: black;
+    color: white;
+    transition: 0.5s;
+}
+
+.box2{
+/* background-color: green; */
+border: 1px solid green;
+}
